@@ -12,6 +12,12 @@ The user and account creation is secured by a JWT authentification system.
 
 ##Feed
 
-![Uploading Untitleddesign1online-video-cutter.com1-ezgif.com-video-to-gif-converter.gif…]()
+![Untitleddesign1online-video-cutter com1-ezgif com-video-to-gif-converter](https://github.com/DhiaBenHass1ne/DASH/assets/145467109/0ac94843-c5fb-415e-bb3f-bf69159f0b8e)
 
+##Fully functional Socket.IO chat
 
+![Untitleddesign1online-video-cutter com2-ezgif com-video-to-gif-converter](https://github.com/DhiaBenHass1ne/DASH/assets/145467109/163c9729-bdff-41e9-a51d-863671540715)
+
+##Integrated OpenAI API to quickly chat with AI assistant
+
+![Untitleddesign1online-video-cutter com3-ezgif com-video-to-gif-converter](https://github.com/DhiaBenHass1ne/DASH/assets/145467109/d1c44e65-d20e-4671-9c14-7fd74c55f118)
