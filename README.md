@@ -3,4 +3,15 @@
 DASH is my first MERN stack project. As a scrum master, I tried to build the best backend I could with what little time I had while simultaneously managing my 3-member team.
 Let's take a look at how this web app works.
 
+##Registration
+
+###JWT security:
+
+The user and account creation is secured by a JWT authentification system.
 ![Untitleddesign1online-video-cutter com-ezgif com-video-to-gif-converter](https://github.com/DhiaBenHass1ne/DASH/assets/145467109/2300a077-9f5e-4b81-8497-65f4c6c20136)
+
+##Feed
+
+![Uploading Untitleddesign1online-video-cutter.com1-ezgif.com-video-to-gif-converter.gif…]()
+
+
